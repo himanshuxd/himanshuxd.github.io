@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blog of Himanshu S (Ashu)
 
 You can use the [editor on GitHub](https://github.com/himanshuxd/himanshuxd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
